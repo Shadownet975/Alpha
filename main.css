@@ -1,0 +1,68 @@
+.css {
+  color: blue;
+  background-color: red;
+  text-transform: capitalize;
+  text-align: center;
+  font: 900;
+  font-size: 24px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.good {
+  color: aliceblue;
+  background-color: aqua;
+  text-transform: uppercase;
+}
+.bad {
+  color: beige;
+  background-color: blue;
+  text-transform: lowercase;
+}
+.mid {
+  color: beige;
+  background-color: black;
+}
+.may {
+  color: red;
+  background-color: azure;
+  border: 1px solid red;
+  height: 120px;
+  width: 60%;
+  border-radius: 6px;
+  text-transform: capitalize;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  text-decoration: overline;
+  text-shadow: 5px 3px 2px green;
+}
+.dog-img {
+  height: 40%;
+  width: 40%;
+  border-radius: 50%;
+}
+.lesson {
+  color: aliceblue;
+  background-color: aquamarine;
+  border-radius: 50%;
+  height: 50px;
+  width: 120px;
+}
+.lesson:hover {
+  height: 70px;
+  color: rgb(209, 196, 255);
+  background-color: black;
+  border-radius: 60%;
+}
+.dog-img:hover {
+  height: 46%;
+  width: 45%;
+}
+.ram {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 24px;
+  font-weight: 900;
+  color: red;
+  text-transform: lowercase;
+}

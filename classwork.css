@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.hel {
+  background-color: aliceblue;
+  height: 45dvh;
+  text-align: center;
+}
+.good {
+  background: linear-gradient(to left, red, black, blue);
+  height: 30dvh;
+  text-align: center;
+  color: white;
+}
+.mab {
+  background-image: url(download.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: contain;
+  font-family: "Big Shoulders Stencil", sans-serif;
+  font-style: normal;
+  height: 40dvh;
+  text-align: center;
+}
+
+.fa-solid {
+  font-size: 40px;
+  color: red;
+}
+.fa-regular {
+  font-size: 40px;
+  color: red;
+}
+.work {
+  background-color: aliceblue;
+  height: 200px;
+  max-width: 300px;
+  border: 4px dashed red;
+  padding: 24px;
+  margin-top: 40px;
+  margin-left: 39px;
+}
+.second {
+  background-color: yellowgreen;
+  height: 200px;
+  max-width: 400px;
+  border-bottom: 4px solid blue;
+  border-top: 4px solid blue;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  padding-left: 20px;
+  padding-right: 21px;
+  padding-top: 22px;
+  padding-bottom: 23px;
+  margin-left: 39px;
+  margin-top: 40px;
+}
+.third {
+  background-color: violet;
+  height: 200px;
+  max-width: 350px;
+  border-bottom: 3px solid red;
+  border-top: 3px solid blue;
+  border-left: 2px dashed black;
+  border-right: 2px dashed yellow;
+  padding: 24px 12px 23px 13px;
+  overflow: scroll;
+  margin-top: 40px;
+  margin-left: 39px;
+}
+.fault {
+  background-color: white;
+  height: 200px;
+  max-width: 350px;
+  border-bottom: 3px solid red;
+  border-top: 3px solid blue;
+  border-left: 2px dashed black;
+  border-right: 2px dashed yellow;
+  padding: 24px 12px 23px 14px;
+  overflow-y: hidden;
+  margin-top: 45px;
+  margin-left: 40px;
+}
