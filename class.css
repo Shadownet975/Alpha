@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navigation {
+  background-color: aliceblue;
+  height: 60px;
+  border-bottom: 2px solid grey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.button {
+  padding: 8px;
+  height: 15 px;
+  border-radius: 112px;
+  width: 115px;
+  background-color: aliceblue;
+}
+.image {
+  height: 25rem;
+  width: 24rem;
+  align-content: end;
+}
+a {
+  text-decoration: none;
+  color: grey;
+  font-weight: 900;
+}
+.hero {
+  display: flex;
+}
+.new-container {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-around;
+  height: 3rem;
+  align-items: center;
+}
+a {
+  padding-left: 67px;
+}
